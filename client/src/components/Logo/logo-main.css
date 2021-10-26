@@ -1,0 +1,9 @@
+
+
+
+.main-logo img{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+    object-position: bottom;
+}
