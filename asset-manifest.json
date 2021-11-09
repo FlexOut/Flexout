@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Flexout/static/css/main.05cc478c.chunk.css",
+    "main.js": "/Flexout/static/js/main.f086bd05.chunk.js",
+    "main.js.map": "/Flexout/static/js/main.f086bd05.chunk.js.map",
+    "runtime-main.js": "/Flexout/static/js/runtime-main.e8e174f4.js",
+    "runtime-main.js.map": "/Flexout/static/js/runtime-main.e8e174f4.js.map",
+    "static/css/2.f4878a83.chunk.css": "/Flexout/static/css/2.f4878a83.chunk.css",
+    "static/js/2.c8c4e128.chunk.js": "/Flexout/static/js/2.c8c4e128.chunk.js",
+    "static/js/2.c8c4e128.chunk.js.map": "/Flexout/static/js/2.c8c4e128.chunk.js.map",
+    "static/js/3.75e75621.chunk.js": "/Flexout/static/js/3.75e75621.chunk.js",
+    "static/js/3.75e75621.chunk.js.map": "/Flexout/static/js/3.75e75621.chunk.js.map",
+    "index.html": "/Flexout/index.html",
+    "static/css/2.f4878a83.chunk.css.map": "/Flexout/static/css/2.f4878a83.chunk.css.map",
+    "static/css/main.05cc478c.chunk.css.map": "/Flexout/static/css/main.05cc478c.chunk.css.map",
+    "static/js/2.c8c4e128.chunk.js.LICENSE.txt": "/Flexout/static/js/2.c8c4e128.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e8e174f4.js",
+    "static/css/2.f4878a83.chunk.css",
+    "static/js/2.c8c4e128.chunk.js",
+    "static/css/main.05cc478c.chunk.css",
+    "static/js/main.f086bd05.chunk.js"
+  ]
+}
